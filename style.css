@@ -177,7 +177,7 @@ ul li:hover a {
 }
 /* More info */
 footer {
-	background-color: #FFFFFF;
+	background-color: lightgreen;
 	padding-bottom: 35px;
 }
 .footer_column {
@@ -187,7 +187,7 @@ footer {
 	float: left;
 }
 footer .footer_column h3 {
-	color: lightgreen;
+	color: #717070;
 	text-align: center;
 }
 footer .footer_column p {
@@ -226,7 +226,7 @@ footer .footer_column p {
 	font-weight: bold;
 	letter-spacing: 2px;
 	border: 3px solid #FFFFFF;
-	color: green;
+	color: #FFFFFF;
 	transition: all 0.3s linear;
 }
 .button:hover {
@@ -246,7 +246,7 @@ footer .footer_column p {
 	border-top-width: 2px;
 }
 .footer_banner {
-	background-color: #B3B3B3;
+	background-color: lightgreen;
 	padding-top: 60px;
 	padding-bottom: 60PX;
 	margin-bottom: 0px;

@@ -70,7 +70,7 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	letter-spacing: 4px;
-	text-align: center right;
+	text-align: center left;
 }
 /* Hero Section */
 .hero {
@@ -89,7 +89,6 @@ ul li:hover a {
 	font-weight: lighter;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-size: 5px;
 }
 /* About Section */
 .text_column {
@@ -146,7 +145,6 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	color: #A3A3A3;
-	font-size: 5px;
 }
 /* Parallax Section */
 .banner {
@@ -196,7 +194,6 @@ footer .footer_column h3 {
 footer .footer_column p {
 	color: #A3A3A3;
 	background-color: #FFFFFF;
-	font-size: 5px;
 }
 .cards {
 	width: 100%;

@@ -64,7 +64,7 @@ ul li:hover a {
 }
 .hero_header {
 	color: #717070;
-	text-align: center;
+	text-align: justify;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
@@ -105,10 +105,11 @@ ul li:hover a {
 	padding-left: 25px;
 	padding-right: 25px;
 	padding-top: 35px;
-	display: flex;
 	background-color: lightgreen;
-	margin-top: 0px;
+	display: inline-block
+	margin-top: 0;
 }
+
 /* Stats Gallery */
 .stats {
 	color: #717070;
@@ -240,7 +241,7 @@ footer .footer_column p {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: darkgreen;
+	background-color: green;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	font-weight: lighter;

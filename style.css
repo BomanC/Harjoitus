@@ -64,7 +64,7 @@ ul li:hover a {
 }
 
 .hero_header {
-	color: #FFFFFF;
+	color: #717070;
 	text-align: center;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -210,6 +210,18 @@ footer .footer_column p {
 	margin-left: 20px;
 	margin-right: 20px;
 }
+
+.hero_footer {
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	letter-spacing: 4px;
+}
+
+
 .button {
 	width: 200px;
 	margin-top: 40px;

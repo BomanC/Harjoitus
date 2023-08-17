@@ -98,7 +98,8 @@ ul li:hover a {
 	float: left;
 	padding-left: 20px;
 	padding-right: 20px;
-	color: #A3A3A3;
+	color: lightgreen;
+    columns: 33%;
 }
 .about {
 	padding-left: 25px;

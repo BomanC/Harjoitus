@@ -146,6 +146,7 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	color: #A3A3A3;
+	font-size: 5px;
 }
 /* Parallax Section */
 .banner {
@@ -193,8 +194,9 @@ footer .footer_column h3 {
 	text-align: center;
 }
 footer .footer_column p {
-	color: #717070;
+	color: #A3A3A3;
 	background-color: #FFFFFF;
+	font-size: 5px;
 }
 .cards {
 	width: 100%;

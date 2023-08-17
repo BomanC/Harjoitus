@@ -292,6 +292,8 @@ footer {
 	display: none;
 }
 header nav ul {
+	list-style: none;
+	float: right;
 }
 nav ul li {
 	margin-top: 0px;

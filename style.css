@@ -101,10 +101,10 @@ ul li:hover a {
 	color: #FFFFFF;
 }
 .about {
-	padding-left: 25px;
-	padding-right: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
 	padding-top: 35px;
-	display: inline-block;
+	display: flex;
 	background-color: green;
 	margin-top: 0px;
 }
@@ -126,7 +126,7 @@ ul li:hover a {
 	margin-bottom: 0px;
 }
 .thumbnail {
-	width: 25%;
+	width: 20%;
 	text-align: center;
 	float: left;
 	margin-top: 35px;
@@ -165,7 +165,7 @@ ul li:hover a {
 .parallax_description {
 	color: darkblue;
 	text-align: left;
-	padding-right: 100px;
+	padding-left: 30px;
 	width: 30%;
 	float: left;
 	font-weight: lighter;

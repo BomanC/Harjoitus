@@ -62,6 +62,16 @@ ul li a {
 ul li:hover a {
 	color: #2C9AB7;
 }
+.hero_header h1{
+	color: #717070;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	letter-spacing: 4px;
+}
+
 .hero_header {
 	color: #FFFFFF;
 	text-align: center;

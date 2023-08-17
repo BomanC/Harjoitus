@@ -107,7 +107,6 @@ ul li:hover a {
 	padding-top: 35px;
 	background-color: lightgreen;
 	display: inline-block
-	margin-top: 0;
 }
 
 /* Stats Gallery */
@@ -194,7 +193,7 @@ footer .footer_column h3 {
 	text-align: center;
 }
 footer .footer_column p {
-	color: #FFFFFF;
+	color: #717070;
 	background-color: #FFFFFF;
 }
 .cards {
@@ -202,6 +201,11 @@ footer .footer_column p {
 	height: auto;
 	max-width: 400px;
 	max-height: 200px;
+}
+
+footer .footer_banner h4{
+	color: #FFFFFF;
+
 }
 footer .footer_column p {
 	padding-left: 30px;

@@ -70,7 +70,8 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	letter-spacing: 4px;
-	text-align: center;
+	text-align: center justify;
+	padding-left: 25px;
 }
 /* Hero Section */
 .hero {

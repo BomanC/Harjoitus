@@ -91,13 +91,13 @@ ul li:hover a {
 }
 /* About Section */
 .text_column {
-	width: 25%;
+	width: 29%;
 	text-align: justify;
 	font-weight: lighter;
 	line-height: 25px;
 	float: left;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
 	color: #FFFFFF;
 }
 .about {
@@ -177,7 +177,7 @@ ul li:hover a {
 }
 /* More info */
 footer {
-	background-color: lightgreen;
+	background-color: #FFFFFF;
 	padding-bottom: 35px;
 }
 .footer_column {
@@ -187,7 +187,7 @@ footer {
 	float: left;
 }
 footer .footer_column h3 {
-	color: #B3B3B3;
+	color: lightgreen;
 	text-align: center;
 }
 footer .footer_column p {
@@ -231,7 +231,7 @@ footer .footer_column p {
 }
 .button:hover {
 	background-color: #FEFEFE;
-	color: #C4C4C4;
+	color: lightgreen;
 	cursor: pointer;
 }
 .copyright {
